@@ -1,3 +1,6 @@
-# serverTest
+# Server Test
 
-small proejct for testing TCP server functionality
+Small proejct for testing TCP server functionality
+
+Dependencies:
+    network
